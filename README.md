@@ -1,6 +1,6 @@
 # Author
-
-![alt text](https://www-list.cea.fr/templates/cealist/images/logo.png) Alexis Marion, CEA List
+Alexis Marion, CEA List <br>
+<img src="https://avatars1.githubusercontent.com/u/24958773?s=200&v=4" alt="drawing" width="80"/>
 
 # Partenarial Explainer
 
@@ -11,5 +11,7 @@ This method is applied to XGBoost models. The first step consist in approximatin
 # Demo
 
 demo.ipynb give you a quick example and results on 3 distincts datasets.
+
+# References
 
 [1] Rony, J., Hafemann, L.G., Oliveira, L.S., Ayed, I.B., Sabourin, R., Granger, E., 2018. Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses. arXiv:1811.09600 [cs].
