@@ -1,5 +1,5 @@
 # Author
-Alexis Marion, CEA List <br>
+Alexis Marion, CEA List, September 2019 <br>
 <img src="https://avatars1.githubusercontent.com/u/24958773?s=200&v=4" alt="drawing" width="80"/>
 
 # Partenarial Explainer
